@@ -1,6 +1,6 @@
-#include <istream>
+# include <iostream>
 using namespace std;
 int main(){
-    cout<<"Hello GitHub"<<endl;
+    cout<<"Hello Github"<<endl;
     return 0;
 }
